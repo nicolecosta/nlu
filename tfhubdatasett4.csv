@@ -1,0 +1,17 @@
+﻿message;intent
+oi;greet
+olá, tudo bem?;greet
+Oie, beleza?;greet
+Eai;greet
+Eu queria saber como tá o tempo hoje;weather
+Como tá o clima em São Paulo?;weather
+Qual a previsão do tempo pra Curitiba amanhã?;weather
+Como vai estar o clima hoje a noite?;weather
+Qual a população de Nova Iorque?;population
+Quantas pessoas vivem em Seul?;population
+Pode me falar a população de Boston?;population
+Qual o número de pessoas de São Paulo?;population
+Tchau;bye
+até mais;bye
+valeu;bye
+adeus;bye
