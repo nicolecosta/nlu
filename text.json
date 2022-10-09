@@ -1,0 +1,51 @@
+"""Dentre seus diversos benefícios, a Avenue oferece câmbio integrado à própria
+plataforma, tanto de reais para dólares como de dólares para reais. Na
+modalidade de reais para dólares, são disponibilizadas duas opções: Câmbio
+Instantâneo (o valor chegará nos Estados Unidos em segundos, imediatamente
+disponível para utilização em sua conta) com horário de negociação das 09:00
+às 15:25 (horário de Brasília) em dias úteis, e o Câmbio Padrão D+1 (o valor
+estará disponível no dia útil seguinte à solicitação de envio) com horário de
+negociação das das 09:00 às 18:00 (horário de Brasília). Após esse horário,
+disponibilizamos o Câmbio Estendido, com disponibilidade instantânea e que
+funciona em dias úteis das 18h à 01h e das 2h às 8:59 (horário de Brasília). O
+Câmbio Estendido funciona nos feriados e finais de semana de 01h às 02h do
+outro dia (horário de Brasília).
+O câmbio de dólar para real só é possível realizar na modalidade Câmbio
+Padrão D+1 (o valor estará disponível no dia útil seguinte à solicitação de
+envio) e é feito das 09h às 17h (horário de Brasília).
+Ao realizar o câmbio de real para dólar, o cliente deve ficar atento para
+escolher se quer enviar o valor para sua conta Investimentos ou Banking, pois
+o valor de IOF para cada destino é diferente (IOF de 0,38% para Investimentos
+e 1,1% para Banking) e a posterior transferência entre contas só pode ser
+realizada mediante regras pré-estabelecidas.
+Disponibilizamos um guia com passo a passo para realização do câmbio real-
+dólar para a conta Banking: https://avenue.nickelled.com/câmbio-para-banking
+Disponibilizamos um guia com passo a passo para realização do câmbio real-
+dólar para a conta Investimentos: https://avenue.nickelled.com/app-cambio-
+reais-dolares
+Disponibilizamos um guia com passo a passo para realização do câmbio dólar-
+real: https://avenue.nickelled.com/app-cambio-dolares-reais
+O cliente pode verificar a modalidade selecionada, bem como outros detalhes
+referentes ao seu câmbio, no Relatório de Câmbio disponibilizado na
+plataforma. Para acessar o Relatório de Câmbio via web: aba RELATÓRIOS &gt;
+RELATÓRIO DE CÂMBIO. Para acessar o Relatório de Câmbio via app: &quot;olá,
+seu nome&quot; &gt; RELATÓRIOS e extratos &gt; RELATÓRIO DE CÂMBIO.
+O limite de câmbio permitido na plataforma varia de acordo com o Nível
+estabelecido na conta do cliente. Para contas abertas sem a entrega dos
+documentos (RG/CNH e CR), o limite de envio de remessas para o exterior é
+de até 3 mil dólares/ano (Nível 1). Para contas abertas com a entrega dos
+documentos (RG/CNH e CR), o limite de envio de remessas para o exterior é
+de até 18 mil dólares/ano (Nível 2). Para limites de câmbio maiores (Nível 3),
+será necessário enviar para a Avenue a última declaração de Imposto de
+Renda, para que o limite seja ajustado de acordo com os valores declarados.
+Caso o cálculo apresente um valor menor do que U$18.000, o limite de câmbio
+poderá ser reduzido para ficar de acordo com a sua capacidade financeira
+atestada nos documentos.
+Em relação aos custos, todas as modalidades de câmbio trabalham com taxa
+de câmbio baseada no dólar comercial acrescido de spread. A Avenue não
+trabalha com uma política de spreads fixos, e eles podem variar livremente
+mediante os volumes totais de câmbio realizados na plataforma. Dependendo
+
+do valor de câmbio que realizar, haverá faixas de desconto no spread cambial
+que podem chegar até 27% nas conversões de real para dólar e até 25% nas
+conversões de dólar para real."""
